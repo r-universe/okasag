@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "orf",
+    "oncran": true
+  }
+]
